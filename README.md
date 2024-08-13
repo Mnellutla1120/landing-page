@@ -1,2 +1,2 @@
 # landing-page
-crash landing on u
+This is a basic website. 
